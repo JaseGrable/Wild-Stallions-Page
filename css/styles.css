@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(152, 152, 8);
+}
+
+li {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.sidebar {
+    float: right;
+}
+
+p {
+    display: inline-flex;
+    background-color: rgb(239, 239, 202);
+}
+
+.Date {
+    width: 50px;
+}
+
+.City {
+    width: 100px;
+}
+
+.Time {
+    width: 50px;
+}
+
+img {
+    float: left;
+}
